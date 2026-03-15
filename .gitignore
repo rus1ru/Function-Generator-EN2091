@@ -1,0 +1,36 @@
+# EDA & Simulation Tool Artifacts
+
+# KiCad
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+_autosave-*
+*.lck
+
+# Eagle
+*.b#?
+*.s#?
+*.l#?
+*.b??
+*.s??
+
+# LTspice
+*.raw
+*.log
+*.op.log
+*.fft
+
+# SPICE general
+*.out
+*.asc.bak
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+*.swp
+*~
+.vscode/
+.idea/
